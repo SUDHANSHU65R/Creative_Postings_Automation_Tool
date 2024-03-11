@@ -9,6 +9,12 @@
 5. Automatically post modified creative images along with the respective templates in designated Google Chat spaces, ensuring timely and personalized greetings.
 
 
+## Code
+
+1. This code organizes imports, uses more descriptive variable names, separates concerns into functions.
+2. It follows PEP 8 guidelines for code readability.
+3. Additionally, it includes error handling and docstrings for better maintainability and understanding. Adjustments are made
+
 
 ## Credits
 Author: Sudhanshu Kumar
