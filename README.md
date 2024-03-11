@@ -1,5 +1,5 @@
 # Python_Projects
-##**Creative Postings Automation Tool Development
+##Creative Postings Automation Tool Development
 
 *Python-based tool for automating the posting of anniversary and birthday wishes to teachers in Google Chat spaces.
 *Utilized Python, Pandas, Google Chat API, Pygsheets, and Pillow libraries for seamless automation.
