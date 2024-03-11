@@ -15,6 +15,7 @@ This project is a Python-based tool designed to automate the posting of annivers
 - Google Chat API
 - Pygsheets
 - Pillow
+- GCP IAM Account for clint secret file(TeacherCommunity.json)
 
 ## How It Works:
 
